@@ -2,3 +2,17 @@
     background-color: black;
     color: white;    
     }
+section{ 
+background-color: blueviolet;
+padding: top 80px;
+padding: bottom 80%;
+display:flex;
+justify-content:center;
+}
+
+.chamada-texto{
+    margin-right: 40px;
+    
+}
+
+
