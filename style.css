@@ -13,6 +13,12 @@ justify-content:center;
 .chamada-texto{
     margin-right: 40px;
 
+img{
+    height: 200px;
 }
 
-
+.categoria-videos{
+     display: flex;
+    overflow-x:auto ;
+    gap: 10px;
+}
